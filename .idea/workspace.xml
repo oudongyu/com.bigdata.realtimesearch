@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd26706-e19a-48ba-85fc-c306a00dde4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.bigdata.realtimesearch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/bigdata/utils/ConstantUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/bigdata/utils/HBaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +23,18 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="oudongyu &lt;37198294+oudongyu@users.noreply.github.com&gt;" />
         <option value="oudongyu" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IdeaProject\com.bigdata.realtimesearch\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -87,8 +85,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604905569903</updated>
-      <workItem from="1604905573620" duration="2793000" />
+      <workItem from="1604905573620" duration="3417000" />
     </task>
+    <task id="LOCAL-00001" summary="实时检索pom依赖更新">
+      <created>1604910481152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604910481152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,17 +105,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="实时检索pom依赖更新" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="519" y="114" key="CommitChangelistDialog2" timestamp="1604910327078">
+    <state x="519" y="114" width="1219" height="811" key="CommitChangelistDialog2" timestamp="1604910478922">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="519" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604910327078" />
+    <state x="519" y="114" width="1219" height="811" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604910478922" />
     <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1604910200537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604910200537" />
+    <state x="779" y="416" key="Github.ShareDialog" timestamp="1604910965189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="416" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604910965189" />
     <state x="463" y="165" key="SettingsEditor" timestamp="1604908917717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604908917717" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1604910928930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604910928930" />
   </component>
 </project>
