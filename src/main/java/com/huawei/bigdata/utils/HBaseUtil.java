@@ -272,7 +272,7 @@ public class HBaseUtil {
 
 
     public static void main(String[] args) throws Exception {
-        test();
+//        test();
         preDeal();
     }
 }
