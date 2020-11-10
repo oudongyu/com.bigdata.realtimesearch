@@ -171,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604905569903</updated>
       <workItem from="1604905573620" duration="3417000" />
-      <workItem from="1604911333252" duration="4494000" />
+      <workItem from="1604911333252" duration="5807000" />
     </task>
     <task id="LOCAL-00001" summary="实时检索pom依赖更新">
       <created>1604910481152</created>
@@ -194,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604914567275</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="实时检索web查看">
+      <created>1604923179226</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604923179226</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,10 +213,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="实时检索web查看" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="519" y="114" width="1219" height="811" key="CommitChangelistDialog2" timestamp="1604914563923">
+    <state x="519" y="114" width="1219" height="811" key="CommitChangelistDialog2" timestamp="1604923176975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="519" y="114" width="1219" height="811" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604914563923" />
+    <state x="519" y="114" width="1219" height="811" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604923176975" />
     <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1604921114537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -254,9 +261,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604908917717" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1604914576390">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1604923195848">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604914576390" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604923195848" />
+    <state x="790" y="314" key="svn.repositoryBrowser" timestamp="1604923185913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="314" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1604923185913" />
   </component>
 </project>
